@@ -4,6 +4,6 @@ Utilização
 
 
 
-Na linha de comando digite youtbe-down -n=nome do video -d=diretorio(opcional) http://youtube.com/urlparadownload.
+Na linha de comando digite youtube-down -n=nome do video -d=diretorio(opcional) http://youtube.com/urlparadownload.
 
 Os arquivos binários estão nas pastas respectivas aos seus Sistemas Operacionais.
